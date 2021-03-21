@@ -1,0 +1,13 @@
+[
+        {
+                "name" : "win_file_watcher",
+                "type" : "generic",
+                "title" : "Windows File Watcher",
+                "description" : "A file watcher scanner for windows",
+                "summary_html" : "@.secplugs/plugins/win_file_watcher/summary.html",
+                "detail_html" : "@.secplugs/plugins/win_file_watcher/detail.html",
+                "small_image" : "@.secplugs/plugins/win_file_watcher/small_image.png",
+                "normal_image" : "@.secplugs/plugins/win_file_watcher/normal_image.png"
+        }
+       
+]
