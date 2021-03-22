@@ -3,6 +3,7 @@
                 "name" : "win_file_watcher",
                 "type" : "generic",
                 "title" : "Windows File Watcher",
+                "created_by" : "BenignB@secplugs.com",
                 "description" : "A file watcher scanner for windows",
                 "summary_html" : "@.secplugs/plugins/win_file_watcher/summary.html",
                 "detail_html" : "@.secplugs/plugins/win_file_watcher/detail.html",
