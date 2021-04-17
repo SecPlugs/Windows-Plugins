@@ -1,5 +1,5 @@
 #### What is the __Windows File Watcher Plugin__?
-Configure to watch file locations on the windows systems and report suspicous activity
+A Secplugs plugin you can configure to watch file locations on the windows systems and report suspicous activity
 
 #### What are the features?
 

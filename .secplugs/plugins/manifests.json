@@ -5,7 +5,7 @@
     "cfgtypes":"windows_file_watcher_dirs",
     "title":"Windows File Watcher",
     "created_by":"BenignB@secplugs.com",
-    "description":"A file watcher on access scanner for Microsoft Windows",
+    "description":"A ready to install second opinion lazy on access scanner for Microsoft Windows.",
     "content":{
       "summary":"https://secplugs.github.io/Windows-Plugins/docs/summary.html",
       "detail":"https://secplugs.github.io/Windows-Plugins/docs/detail.html"
