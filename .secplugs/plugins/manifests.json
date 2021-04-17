@@ -7,8 +7,8 @@
     "created_by":"BenignB@secplugs.com",
     "description":"A file watcher on access scanner for Microsoft Windows",
     "content":{
-      "summary":"@.secplugs/plugins/win_file_watcher/summary.html",
-      "detail":"@.secplugs/plugins/win_file_watcher/detail.html"
+      "summary":"https://secplugs.github.io/Windows-Plugins/docs/summary.html",
+      "detail":"https://secplugs.github.io/Windows-Plugins/docs/detail.html"
     },
     "images":{
       "small":"@.secplugs/plugins/win_file_watcher/small_image.png",
@@ -18,7 +18,8 @@
       ]
     },
     "links":{
-      "github":"https://github.com/SecPlugs/Windows-Plugins"
+      "github":"https://github.com/SecPlugs/Windows-Plugins",
+      "more_info":"https://secplugs.github.io/Windows-Plugins/docs"
     }
   }
 ]
