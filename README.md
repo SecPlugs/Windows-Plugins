@@ -7,7 +7,7 @@
 Repository for Windows centric plugins and tools
 
 ## Usage & More Info
-See the [Windows Plugin GitHub Pages ](https://secplugs.github.io/Windows-Plugins/docs) for usage and other information
+See the [Windows Plugin GitHub Pages ](https://docs.secplugs.com/Windows-Plugins/docs) for usage and other information
 
 ## Repository Layout
 This repository is laid out as follows..
