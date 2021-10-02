@@ -14,12 +14,13 @@ namespace secplugs {
 	{
 	public:
 		void add_directory(const std::string& path);
-		void init();
 		void watch(secplugs::restclient& rest);
 	private:
 		void reload_dir(LPCWSTR dir);
-		HANDLE dirHandles[2] = { nullptr, nullptr };
-		std::wstring defaultWatchPath = _T("D:\\temp");
+		void watch_dir(const std::wstring& dir, restclient& rest);
+		
+		std::wstring defaultWatchPath = _T("C:\\Windows");
+		std::vector<std::wstring> watchDirs;
 	};
 
 }

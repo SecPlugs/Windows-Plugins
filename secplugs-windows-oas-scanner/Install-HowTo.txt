@@ -1,0 +1,12 @@
+Secplugs Windows File Watcher
+-----------------------------
+
+The Secplugs Windows File Watcher is an On-Access Scanner (OAS) that analyzes files and folders folders
+malicious content.
+
+INSTALL
+-------
+Run the executable located in the same dir as this file.
+When prompted, extract the contents to a temporary directory, for example. C:\temp\Secplugs.
+Run the install.bat from the extracted location as an Administrator.
+That's it!! Your computer is now being monitored for malicious files and software.

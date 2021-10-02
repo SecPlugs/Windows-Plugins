@@ -81,6 +81,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
+    <TargetName>SecplugsWindowsScanner</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -148,6 +149,7 @@
     <ClCompile Include="httpclient.cpp" />
     <ClCompile Include="httppayload.cpp" />
     <ClCompile Include="restclient.cpp" />
+    <ClCompile Include="scannerservice.cpp" />
     <ClCompile Include="secplugs-windows-oas-scanner.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -157,6 +159,7 @@
     <ClInclude Include="httpclient.h" />
     <ClInclude Include="httppayload.h" />
     <ClInclude Include="restclient.hpp" />
+    <ClInclude Include="scannerservice.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

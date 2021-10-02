@@ -3,15 +3,11 @@
 
 #include <iostream>
 #include "filewatcher.hpp"
+#include "scannerservice.h"
 
 int main(int argc, char** argv)
 {
-    std::cout << "Starting!\n";
-	secplugs::configloader cfg("d:\\temp\\config.json");
-	secplugs::restclient rest(cfg);
-	secplugs::filewatcher fw;
-	fw.init();
-	fw.watch(rest);
-	return 0;
+	secplugs::scannerservice plugin("c:\\program files\\secplugs\\config.json");
+	return plugin.run(argc, argv);
 }
 
