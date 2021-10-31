@@ -19,7 +19,8 @@
     },
     "links":{
       "github":"https://github.com/SecPlugs/Windows-Plugins",
-      "more_info":"https://secplugs.github.io/Windows-Plugins/docs"
+      "more_info":"https://secplugs.github.io/Windows-Plugins/docs",
+      "download" : "https://packages.secplugs.com/secplugs-windows-filewatcher.zip"
     }
   }
 ]

@@ -18,5 +18,7 @@ This tools uses a very minimal configuration that is just enough. The list of di
 
 #### How do I get started?
 
-The tool is currently under development wil be available soon.
+Download the tool from the link below, unzip to a temporary location and follow the instructions in the Install-HowTo.txt file.
 
+
+[secplugs-windows-filewatcher.zip](https://packages.secplugs.com/secplugs-windows-filewatcher.zip)
