@@ -7,14 +7,5 @@
 Repository for Windows centric plugins and tools
 
 ## Usage & More Info
-See the [Windows Plugin GitHub Pages ](https://docs.secplugs.com/Windows-Plugins/docs) for usage and other information
-
-## Repository Layout
-This repository is laid out as follows..
-
-| Folder        | Description |
-| ------------- |:-------------| 
-| .secplugs     | contains the meta data to import into the Secplugs portal |
-| scripts       | core scripts that use the Secplugs platform      |
-| build         | build, package and publish scripts  |
+See the [Windows File Watcher Docs ](https://{brand-root-domain}/index.php/docs?plugin=plugin-secplugs-windows-plugins-win-file-watcher) for usage and other information
 

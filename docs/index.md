@@ -1,13 +1,19 @@
-![CICD](https://github.com/SecPlugs/Windows-Plugins/workflows/CICD/badge.svg)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-![Daily Test](https://github.com/SecPlugs/Windows-Plugins/workflows/DailyTest/badge.svg)
+# Windows File Watcher
+Designed to run on Microsoft Windows and scan file activity in configurable locations.
 
-## Summary
-{% include_relative _summary.md %}
+The tool is open source so you can modify as you wish.
+Also see [Power Automate Listing](/plugin-list/plugin-secplugs-windows-plugins-win-file-watcher)
 
-## About
-{% include_relative _detail.md %}
+## How does it work?
 
-## Contact
-Having trouble? [Contact Secplugs ](https://secplugs.com/contacts)
+Once installed, the {brand-plugin-type} is notified by Windows when a file is created in or moved to the configured directories. 
+The file is sent to {brand-name} for a score based scan. If this scan detects this file to be malicious, the file is removed from the filesystem.
+This tools uses a very minimal configuration that is just enough. The list of directories to monitor is the only mandatory configuration.
 
+
+## How do I get started?
+
+Download the tool from the link below, unzip to a temporary location and follow the instructions in the Install-HowTo.txt file.
+
+
+[secplugs-windows-filewatcher.zip](https://packages.secplugs.com/secplugs-windows-filewatcher.zip)

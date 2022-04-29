@@ -1,5 +1,4 @@
-theme: jekyll-theme-midnight
-title: Secplugs Windows File Watcher
-description: A ready to install second opinion on access scanner for Microsoft Windows.
-google_analytics: G-4MB8SZYEBR
-
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
